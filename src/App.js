@@ -6,9 +6,9 @@ import {
 
 } from 'react-router-dom'
 
-import Login from './views/login';
-import Profile from './views/profile';
-import Translate from './views/translate';
+import Login from './views/Login';
+import Profile from './views/Profile';
+import Translate from './views/Translate';
 
 function App() {
   

@@ -1,4 +1,4 @@
-import Login from "../../views/login"
+import Login from "../../views/Login"
 
 const LoginForm = () => {
     return (
